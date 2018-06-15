@@ -9,6 +9,7 @@ This script can read and process newline delimited data extremely quickly.  For 
 - If the file is too small to split into N pieces, the script will scale to the maximum number of chunks possible.  This script is not meant for small files since there is a little bit of startup time involved.  This is meant to tear through big data (gigabytes / terabytes / petabytes).
 
 jason@pushshift.io
+
 https://pushshift.io/donations 
 
 
